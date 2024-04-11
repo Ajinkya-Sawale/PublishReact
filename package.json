@@ -1,0 +1,22 @@
+{
+  "name": "crete-react",
+  "version": "1.0.0",
+  "description": "This is creating our first react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjinkyaSawale/ReactTutorial1.git"
+  },
+  "author": "Ajinkya Sawale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjinkyaSawale/ReactTutorial1/issues"
+  },
+  "homepage": "https://github.com/AjinkyaSawale/ReactTutorial1#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
